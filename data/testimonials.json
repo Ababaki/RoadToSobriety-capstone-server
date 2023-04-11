@@ -1,1 +1,116 @@
-[{"name":"Sarah Johnson","date":"2021-05-15","testimonial":"I was addicted to opioids for over 10 years and my life was spiraling out of control. I lost my job, my relationships, and my health was failing. But with the help of a supportive family, professional treatment, and a lot of hard work, I've been clean for 5 years now. I have a job that I love, a stable relationship, and I'm healthy and happy.","id":"1"},{"name":"John Smith","date":"2022-09-02","testimonial":"I thought I would never be able to overcome my addiction to opioids. It was a dark place that I didn't know how to get out of. But I finally decided to seek help and found a treatment program that worked for me. Today, I have been clean for 3 years and I feel like I have my life back. I have a supportive network of friends and family, a job that I enjoy, and I'm pursuing my dreams.","id":"2"},{"name":"Emily Brown","date":"2023-01-07","testimonial":"When I hit rock bottom, I didn't know how to climb back up. I had lost everything to my addiction to opioids. But I found hope in a support group, and through their encouragement, I was able to enter a treatment program. It was a tough road, but I've been sober for 2 years now, and I'm grateful for every day that I get to live a sober life.","id":"3"},{"name":"David Lee","date":"2021-11-20","testimonial":"Being addicted to opioids consumed my life for years. But I was finally able to break free from the cycle of addiction through a combination of professional treatment, self-help groups, and the support of my loved ones. Today, I'm thriving in my career, I have a healthy relationship with my family, and I'm grateful for the second chance I've been given at life.","id":"4"},{"name":"Rachel Davis","date":"2022-03-10","testimonial":"Opioid addiction had a hold on me for longer than I care to admit. But with the help of a treatment program, I was able to detox and learn coping skills to manage my addiction. It's been 1 year since I've been sober, and I'm amazed at how much my life has changed for the better. I have a job that I love, a supportive partner, and a newfound sense of purpose in life.","id":"5"},{"name":"Jackie Chen","date":"2022-06-18","testimonial":"My addiction to opioids caused me to lose everything I held dear. But through professional help, the support of my family, and a determination to change, I'm happy to say that I'm now sober and getting my life back on track.","id":"6"},{"name":"Andrew Wilson","date":"2021-08-30","testimonial":"It's hard to put into words just how much my life has changed since I got sober. I was lost in my addiction to opioids, but with the help of treatment, I've been able to rediscover who I am and what's important in life.","id":"7"},{"name":"Lena Nguyen","date":"2023-02-14","testimonial":"I was addicted to opioids for many years, and I honestly thought there was no way out. But with the right help and support, I was able to turn my life around and get sober. Now, I'm living a life beyond my wildest dreams.","id":"8"},{"name":"Mike Thompson","date":"2021-12-05","testimonial":"Addiction is a lonely road, but it doesn't have to be a permanent one. With the right resources and support, it's possible to overcome even the most challenging addictions, and come out stronger on the other side.","id":"9"},{"name":"Samantha Garcia","date":"2022-10-20","testimonial":"My journey to sobriety hasn't been easy, but it's been worth it. I've learned so much about myself and what I'm capable of, and I'm now living a life I never thought was possible.","id":"10"},{"name":"Robert Jones","date":"2023-05-01","testimonial":"It took me a long time to realize that my addiction to opioids wasn't just a personal problem, it was a disease that needed to be treated. But once I got the help I needed, everything changed. I'm now living a happy, healthy, and sober life.","id":"11"},{"name":"Jessica Davis","date":"2022-02-28","testimonial":"Addiction can be overwhelming, but it's not unbeatable. With the right help and support, it's possible to overcome even the most difficult struggles and live a life free from addiction.","id":"12"},{"name":"Peter Wilson","date":"2021-10-10","testimonial":"It's hard to describe the feeling of finally being sober after struggling with addiction for so long. It's like a weight has been lifted from my shoulders, and I'm finally free to live the life I want to live.","id":"13"},{"name":"Megan Brown","date":"2023-01-25","testimonial":"Getting sober isn't easy, but it's worth it. Every day that I wake up sober is a gift, and I'm grateful for the opportunity to live a life free from the chains of addiction.","id":"14"},{"name":"Avery Johnson","date":"2023-06-30","testimonial":"Addiction had a grip on my life for years, but with the help of a supportive family, professional treatment, and a lot of hard work, I'm now sober and living a life I never thought was possible.","id":"16"},{"name":"Samuel Kim","date":"2021-11-15","testimonial":"It's been a tough journey, but I'm grateful for every day that I wake up sober. It's amazing how much my life has changed since getting the help I needed.","id":"17"},{"name":"Olivia Thomas","date":"2022-05-05","testimonial":"Sobriety isn't easy, but it's worth it. I'm living proof that anyone can overcome addiction with the right help and support.","id":"18"},{"name":"Gabriel Martinez","date":"2023-04-01","testimonial":"Getting sober was the best decision I ever made. I'm now living a life I never thought was possible, and I'm grateful for every day that I get to wake up sober.","id":"19"},{"name":"Victoria Nguyen","date":"2022-09-15","testimonial":"It's hard to put into words just how much my life has changed since getting sober. I'm now living a life beyond my wildest dreams, and I'm grateful for every day that I get to live it.","id":"20"},{"name":"shirin","date":"2002-02-02","testimonial":"sdsd","id":"28c31b78-ae84-47a5-8b26-41f86b5dfe13","timestamp":1680919629,"likes":"","authorName":""}]
+[
+    {
+        "name": "Sarah Johnson",
+        "date": "2021-05-15",
+        "testimonial": "I was addicted to opioids for over 10 years and my life was spiraling out of control. I lost my job, my relationships, and my health was failing. But with the help of a supportive family, professional treatment, and a lot of hard work, I've been clean for 5 years now. I have a job that I love, a stable relationship, and I'm healthy and happy.",
+        "id": "1"
+    },
+    {
+        "name": "John Smith",
+        "date": "2022-09-02",
+        "testimonial": "I thought I would never be able to overcome my addiction to opioids. It was a dark place that I didn't know how to get out of. But I finally decided to seek help and found a treatment program that worked for me. Today, I have been clean for 3 years and I feel like I have my life back. I have a supportive network of friends and family, a job that I enjoy, and I'm pursuing my dreams.",
+        "id": "2"
+    },
+    {
+        "name": "Emily Brown",
+        "date": "2023-01-07",
+        "testimonial": "When I hit rock bottom, I didn't know how to climb back up. I had lost everything to my addiction to opioids. But I found hope in a support group, and through their encouragement, I was able to enter a treatment program. It was a tough road, but I've been sober for 2 years now, and I'm grateful for every day that I get to live a sober life.",
+        "id": "3"
+    },
+    {
+        "name": "David Lee",
+        "date": "2021-11-20",
+        "testimonial": "Being addicted to opioids consumed my life for years. But I was finally able to break free from the cycle of addiction through a combination of professional treatment, self-help groups, and the support of my loved ones. Today, I'm thriving in my career, I have a healthy relationship with my family, and I'm grateful for the second chance I've been given at life.",
+        "id": "4"
+    },
+    {
+        "name": "Rachel Davis",
+        "date": "2022-03-10",
+        "testimonial": "Opioid addiction had a hold on me for longer than I care to admit. But with the help of a treatment program, I was able to detox and learn coping skills to manage my addiction. It's been 1 year since I've been sober, and I'm amazed at how much my life has changed for the better. I have a job that I love, a supportive partner, and a newfound sense of purpose in life.",
+        "id": "5"
+    },
+    {
+        "name": "Jackie Chen",
+        "date": "2022-06-18",
+        "testimonial": "My addiction to opioids caused me to lose everything I held dear. But through professional help, the support of my family, and a determination to change, I'm happy to say that I'm now sober and getting my life back on track.",
+        "id": "6"
+    },
+    {
+        "name": "Andrew Wilson",
+        "date": "2021-08-30",
+        "testimonial": "It's hard to put into words just how much my life has changed since I got sober. I was lost in my addiction to opioids, but with the help of treatment, I've been able to rediscover who I am and what's important in life.",
+        "id": "7"
+    },
+    {
+        "name": "Lena Nguyen",
+        "date": "2023-02-14",
+        "testimonial": "I was addicted to opioids for many years, and I honestly thought there was no way out. But with the right help and support, I was able to turn my life around and get sober. Now, I'm living a life beyond my wildest dreams.",
+        "id": "8"
+    },
+    {
+        "name": "Mike Thompson",
+        "date": "2021-12-05",
+        "testimonial": "Addiction is a lonely road, but it doesn't have to be a permanent one. With the right resources and support, it's possible to overcome even the most challenging addictions, and come out stronger on the other side.",
+        "id": "9"
+    },
+    {
+        "name": "Samantha Garcia",
+        "date": "2022-10-20",
+        "testimonial": "My journey to sobriety hasn't been easy, but it's been worth it. I've learned so much about myself and what I'm capable of, and I'm now living a life I never thought was possible.",
+        "id": "10"
+    },
+    {
+        "name": "Robert Jones",
+        "date": "2023-05-01",
+        "testimonial": "It took me a long time to realize that my addiction to opioids wasn't just a personal problem, it was a disease that needed to be treated. But once I got the help I needed, everything changed. I'm now living a happy, healthy, and sober life.",
+        "id": "11"
+    },
+    {
+        "name": "Jessica Davis",
+        "date": "2022-02-28",
+        "testimonial": "Addiction can be overwhelming, but it's not unbeatable. With the right help and support, it's possible to overcome even the most difficult struggles and live a life free from addiction.",
+        "id": "12"
+    },
+    {
+        "name": "Peter Wilson",
+        "date": "2021-10-10",
+        "testimonial": "It's hard to describe the feeling of finally being sober after struggling with addiction for so long. It's like a weight has been lifted from my shoulders, and I'm finally free to live the life I want to live.",
+        "id": "13"
+    },
+    {
+        "name": "Megan Brown",
+        "date": "2023-01-25",
+        "testimonial": "Getting sober isn't easy, but it's worth it. Every day that I wake up sober is a gift, and I'm grateful for the opportunity to live a life free from the chains of addiction.",
+        "id": "14"
+    },
+    {
+        "name": "Avery Johnson",
+        "date": "2023-06-30",
+        "testimonial": "Addiction had a grip on my life for years, but with the help of a supportive family, professional treatment, and a lot of hard work, I'm now sober and living a life I never thought was possible.",
+        "id": "16"
+    },
+    {
+        "name": "Samuel Kim",
+        "date": "2021-11-15",
+        "testimonial": "It's been a tough journey, but I'm grateful for every day that I wake up sober. It's amazing how much my life has changed since getting the help I needed.",
+        "id": "17"
+    },
+    {
+        "name": "Olivia Thomas",
+        "date": "2022-05-05",
+        "testimonial": "Sobriety isn't easy, but it's worth it. I'm living proof that anyone can overcome addiction with the right help and support.",
+        "id": "18"
+    },
+    {
+        "name": "Gabriel Martinez",
+        "date": "2023-04-01",
+        "testimonial": "Getting sober was the best decision I ever made. I'm now living a life I never thought was possible, and I'm grateful for every day that I get to wake up sober.",
+        "id": "19"
+    },
+    {
+        "name": "Victoria Nguyen",
+        "date": "2022-09-15",
+        "testimonial": "It's hard to put into words just how much my life has changed since getting sober. I'm now living a life beyond my wildest dreams, and I'm grateful for every day that I get to live it.",
+        "id": "20"
+    }
+]
